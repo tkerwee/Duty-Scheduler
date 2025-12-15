@@ -1,0 +1,5 @@
+{
+  "name": "Duty Scheduler",
+  "description": "A smart duty roster scheduler for operators and team leads. Features AI-powered roster generation, constraint validation, and preference management.",
+  "requestFramePermissions": []
+}
